@@ -1,0 +1,12 @@
+[
+    {"id": 1, "capacity": 2, "description": "Уютный столик для двоих у окна"},
+    {"id": 2, "capacity": 4, "description": "Семейный столик в центре зала"},
+    {"id": 3, "capacity": 6, "description": "Большой стол для компании друзей"},
+    {"id": 4, "capacity": 2, "description": "Романтический столик в углу"},
+    {"id": 5, "capacity": 3, "description": "Столик для небольшой компании"},
+    {"id": 6, "capacity": 1, "description": "Место у барной стойки"},
+    {"id": 7, "capacity": 4, "description": "Столик с видом на город"},
+    {"id": 8, "capacity": 5, "description": "Просторный стол для семейного ужина"},
+    {"id": 9, "capacity": 2, "description": "Тихий столик для деловой встречи"},
+    {"id": 10, "capacity": 6, "description": "VIP-зона для больших компаний"}
+]
