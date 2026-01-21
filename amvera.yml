@@ -10,6 +10,6 @@ build:
   useCache: true
 run:
   persistenceMount: /data
-  scriptName: restauгant_service/app/main.py
+  scriptName: main.py
   containerPort: 8000
 serviceType: compute
